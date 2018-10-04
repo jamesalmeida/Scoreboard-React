@@ -1,5 +1,5 @@
 # Simple Scoreboard app with React
-Simple single-page app to keep score on a scoreboard with React.
+Simple single-page app to keep score on a scoreboard built with React.
 
 ![Scoreboard example](https://i.imgur.com/ep8Xv73.png)
 

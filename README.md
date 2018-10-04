@@ -10,3 +10,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+
+![Scoreboard example](https://i.imgur.com/ep8Xv73.png)
